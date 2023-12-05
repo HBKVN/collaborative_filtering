@@ -1,0 +1,5 @@
+Item-Based-Colob-Model with k=1 saved with RMSE: 2.360378012314572
+Item-Based-Colob-Model with k=2 saved with RMSE: 2.1047792722062537
+Item-Based-Colob-Model with k=3 saved with RMSE: 2.0270552315922195      
+Item-Based-Colob-Model with k=4 saved with RMSE: 1.975954204998248       
+Item-Based-Colob-Model with k=5 saved with RMSE: 1.9484915965385254  

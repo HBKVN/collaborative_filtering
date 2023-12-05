@@ -1,0 +1,5 @@
+User-Based-Colob-Model with k=1 saved with RMSE: 2.371422936641374
+User-Based-Colob-Model with k=2 saved with RMSE: 2.104836038777907
+User-Based-Colob-Model with k=3 saved with RMSE: 2.0192872294498776
+User-Based-Colob-Model with k=4 saved with RMSE: 1.9742269457988635
+User-Based-Colob-Model with k=5 saved with RMSE: 1.9530205643101841
